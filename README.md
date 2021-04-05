@@ -40,7 +40,7 @@ some of these mods are from kbh games so a big thanks to them
 
 [Monster Dearest](https://hdboye.github.io/FnfModAttempt2/dearest)
 
-[HELL BEATS](https://hdboye.github.io/FnfModAttempt/hellbeats)
+[HEL BEATS](https://hdboye.github.io/FnfModAttempt/hellbeats)
 
 [C-Side](https://hdboye.github.io/FnfModAttempt/cside)
 
