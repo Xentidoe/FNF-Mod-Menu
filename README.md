@@ -17,3 +17,5 @@ some of these mods are from kbh games so a big thanks to them
 [Neo Mod](https://kbhgames.com/game/friday-night-funkin-neo)
 
 [Ronald Mod (credits to hd)](https://hdboye.github.io/FnfModAttempt2/ronald)
+
+[among drip mod (credits to hd)](https://hdboye.github.io/FnfModAttempt/drip)
