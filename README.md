@@ -61,3 +61,5 @@ some of these mods are from kbh games so a big thanks to them
 [Ranboo As Bf](https://hdboye.github.io/FnfModAttempt2/ranboo)
 
 [Playable TankMan](https://hdboye.github.io/FnfModAttempt2/tankmen)
+
+[B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree)
