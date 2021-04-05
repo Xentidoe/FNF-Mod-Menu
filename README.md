@@ -25,3 +25,5 @@ some of these mods are from kbh games so a big thanks to them
 [Ugh( u can only do normal)](https://play.sites.google.com/site/unblockedgame76/friday-night-funkin-ugh-mod)
 
 [??? Mod](https://hdboye.github.io/FnfModAttempt/mitai)
+
+[Roblox Noob Over Pico (credits to hd)](https://hdboye.github.io/FnfModAttempt/noob)
