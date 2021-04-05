@@ -13,3 +13,5 @@ these mods are from kbh games so a big thanks to them
 [V.S Whitty](https://kbhgames.com/game/friday-night-funkin-v-s-whitty-full-week)
 
 [B-Sides](https://kbhgames.com/game/friday-night-funkin-b-side-remixes)
+
+[Neo Mod](https://kbhgames.com/game/friday-night-funkin-neo)
