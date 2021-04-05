@@ -21,3 +21,5 @@ some of these mods are from kbh games so a big thanks to them
 [Among Drip Mod (credits to hd)](https://hdboye.github.io/FnfModAttempt/drip)
 
 [Minus Mod Weeks 1-3 (credits to hd)](https://hdboye.github.io/FnfModAttempt/minus)
+
+[Ugh](https://play.sites.google.com/site/unblockedgame76/friday-night-funkin-ugh-mod)
