@@ -43,3 +43,5 @@ some of these mods are from kbh games so a big thanks to them
 [HELL BEATS](https://hdboye.github.io/FnfModAttempt/hellbeats)
 
 [C-Side](https://hdboye.github.io/FnfModAttempt/cside)
+
+[You're a Douchebag Song Mod](https://hdboye.github.io/FnfModAttempt/douchebag)
