@@ -66,6 +66,6 @@ some of these mods are from kbh games so a big thanks to them
 
 [UpSide Mod](https://hdboye.github.io/FnfModAttempt/upside)
 
-[X Event Demo](https://elpeppywall.github.io/Mods/Xchara)
+[X Event Demo (credits to peppy)](https://elpeppywall.github.io/Mods/Xchara)
 
-[V.S Hex](https://elpeppywall.github.io/Mods/hex)
+[V.S Hex (credits to peppy)](https://elpeppywall.github.io/Mods/hex)
