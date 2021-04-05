@@ -44,6 +44,6 @@ some of these mods are from kbh games so a big thanks to them
 
 [C-Side](https://hdboye.github.io/FnfModAttempt/cside)
 
-[You're a Douchebag Song Mod](https://hdboye.github.io/FnfModAttempt/douchebag)
+[You're a Song Mod](https://hdboye.github.io/FnfModAttempt/douchebag)
 
 
