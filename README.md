@@ -55,3 +55,5 @@ some of these mods are from kbh games so a big thanks to them
 [Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin)
 
 [Pumpkin Pie Mod](https://hdboye.github.io/FnfModAttempt2/pie)
+
+[Ranboo As Bf](https://hdboye.github.io/FnfModAttempt2/ranboo)
