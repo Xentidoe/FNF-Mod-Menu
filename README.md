@@ -2,6 +2,8 @@ Friday Night Funkin' Mod Menu
 
 a fnf mod menu filled with mods
 
+Credits to hdboye
+
 [Kade Engine](https://hdboye.github.io/FnfModAttempt2/kade)
 
 some of these mods are from kbh games so a big thanks to them 
@@ -49,3 +51,7 @@ some of these mods are from kbh games so a big thanks to them
 [Carol](https://hdboye.github.io/FnfModAttempt/carol)
 
 [ThornsFire Mod](https://hdboye.github.io/FnfModAttempt2/thornfire)
+
+[Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin)
+
+[Pumpkin Pie Mod](https://hdboye.github.io/FnfModAttempt2/pie)
