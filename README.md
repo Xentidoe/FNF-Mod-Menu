@@ -1,4 +1,4 @@
-Friday Night Funkin' Mod Menu
+Friday Night Funkin' Mod Menu          [gamebanana links](https://xentidoe.github.io/Gamebanana-links/)
 
 a fnf mod menu filled with mods
 
