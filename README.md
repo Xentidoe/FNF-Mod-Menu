@@ -63,3 +63,5 @@ some of these mods are from kbh games so a big thanks to them
 [Playable TankMan](https://hdboye.github.io/FnfModAttempt2/tankmen)
 
 [B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree)
+
+[UpSide Mod](https://hdboye.github.io/FnfModAttempt/upside)
