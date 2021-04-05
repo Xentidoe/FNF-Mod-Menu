@@ -10,3 +10,4 @@ these mods are from kbh games so i big thanks to them
 
 [V.S. Tricky](https://kbhgames.com/game/friday-night-funkin-the-tricky-mod)
 
+[V.S Whitty](https://kbhgames.com/game/friday-night-funkin-v-s-whitty-full-week)
