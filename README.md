@@ -33,3 +33,5 @@ some of these mods are from kbh games so a big thanks to them
 [Duo Pack (credits to hd)](https://hdboye.github.io/FnfModAttempt/duo)
 
 [Cassandra Over Pico(credits to hd)](https://hdboye.github.io/FnfModAttempt2/cassandra)
+
+[FNF but bad(credits to hd)](https://hdboye.github.io/FnfModAttempt2/bad)
