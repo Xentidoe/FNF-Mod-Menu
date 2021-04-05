@@ -10,4 +10,3 @@ these mods are from kbh games so i big thanks to them
 
 [V.S. Tricky](https://kbhgames.com/game/friday-night-funkin-the-tricky-mod)
 
-[sum](<iframe src="https://itch.io/embed/975371" height="167" width="552" frameborder="0"><a href="https://untitledoutput.itch.io/friday-night-funkin-kade-engine">Friday Night Funkin (Kade Engine) by UntitledOutput</a></iframe>)
