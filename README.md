@@ -87,3 +87,5 @@ some of these mods are from kbh games so a big thanks to them
 [Sunday Mod](https://hdboye.github.io/FnfModAttempt2/sunday)
 
 [BBpanzu's Miku Mod](https://hdboye.github.io/FnfModAttempt2/bbmiku)
+
+[miku mod](https://xentidoe.itch.io/miku-mod-full-week)
