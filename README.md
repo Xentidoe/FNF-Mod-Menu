@@ -88,4 +88,4 @@ some of these mods are from kbh games so a big thanks to them
 
 [BBpanzu's Miku Mod](https://hdboye.github.io/FnfModAttempt2/bbmiku)
 
-[miku mod](https://xentidoe.itch.io/miku-mod-full-week)
+[Miku Mod](https://xentidoe.itch.io/miku-mod-full-week)
