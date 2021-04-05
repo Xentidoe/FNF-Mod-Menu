@@ -2,6 +2,8 @@ Friday Night Funkin' Mod Menu
 
 a fnf mod menu filled with mods
 
+[Kade Engine](https://hdboye.github.io/FnfModAttempt2/kade)
+
 some of these mods are from kbh games so a big thanks to them 
 
 [click here](https://discord.gg/hxVMcsXn) to join my discord server to request mods
