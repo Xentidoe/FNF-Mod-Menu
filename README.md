@@ -1,4 +1,4 @@
-# FNF-Mod-Menu
+Friday Night Funkin' Mod Menu
 a fnf mod menu filled with mods
 
 these mods are from kbh games so i big thanks to them 
