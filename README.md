@@ -35,3 +35,9 @@ some of these mods are from kbh games so a big thanks to them
 [Cassandra Over Pico(credits to hd)](https://hdboye.github.io/FnfModAttempt2/cassandra)
 
 [FNF but bad(credits to hd)](https://hdboye.github.io/FnfModAttempt2/bad)
+
+[Lemon Must Murder](https://hdboye.github.io/FnfModAttempt2/monster)
+
+[Monster Dearest](https://hdboye.github.io/FnfModAttempt2/dearest)
+
+[HELL BEATS](https://hdboye.github.io/FnfModAttempt/hellbeats)
