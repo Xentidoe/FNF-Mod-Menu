@@ -15,3 +15,5 @@ these mods are from kbh games so a big thanks to them
 [B-Sides](https://kbhgames.com/game/friday-night-funkin-b-side-remixes)
 
 [Neo Mod](https://kbhgames.com/game/friday-night-funkin-neo)
+
+[Ronald Mod (credits to hd)](https://hdboye.github.io/FnfModAttempt2/ronald)
