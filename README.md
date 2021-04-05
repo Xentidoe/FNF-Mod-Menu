@@ -36,7 +36,7 @@ some of these mods are from kbh games so a big thanks to them
 
 [FNF but bad(credits to hd)](https://hdboye.github.io/FnfModAttempt2/bad)
 
-[Lemon Must Murder](https://hdboye.github.io/FnfModAttempt2/monster)
+[Lemon Over Mom](https://hdboye.github.io/FnfModAttempt2/monster)
 
 [Monster Dearest](https://hdboye.github.io/FnfModAttempt2/dearest)
 
