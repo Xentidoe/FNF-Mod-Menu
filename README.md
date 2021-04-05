@@ -69,3 +69,21 @@ some of these mods are from kbh games so a big thanks to them
 [X Event Demo (credits to peppy)](https://elpeppywall.github.io/Mods/Xchara)
 
 [V.S Hex (credits to peppy)](https://elpeppywall.github.io/Mods/hex)
+
+[Replaces Week 6 ?? Mod](https://hdboye.github.io/FnfModAttempt/page2/springtrap)
+
+[wait what is the name of this mod again i dont remember??](https://hdboye.github.io/FnfModAttempt2/end)
+
+[Wilbur Soot Mod](https://hdboye.github.io/FnfModAttempt2/soot)
+
+[Tulio Trivino Mod](https://hdboye.github.io/FnfModAttempt2/tulio)
+
+[CoryXKenshin Mod](https://hdboye.github.io/FnfModAttempt2/cory)
+
+[Chug Jug Over Bopeebo](https://hdboye.github.io/FnfModAttempt2/chug)
+
+[Pelo Over Bf](https://hdboye.github.io/FnfModAttempt2/pelones)
+
+[Sunday Mod](https://hdboye.github.io/FnfModAttempt2/sunday)
+
+[BBpanzu's Miku Mod](https://hdboye.github.io/FnfModAttempt2/bbmiku)
