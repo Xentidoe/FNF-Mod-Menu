@@ -10,4 +10,4 @@ these mods are from kbh games so i big thanks to them
 
 [V.S. Tricky](https://kbhgames.com/game/friday-night-funkin-the-tricky-mod)
 
-[DONT CLICK](https://xentidoe.github.io/FnfModAttempt/miku)
+
