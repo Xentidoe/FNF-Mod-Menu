@@ -89,3 +89,5 @@ some of these mods are from kbh games so a big thanks to them
 [BBpanzu's Miku Mod](https://hdboye.github.io/FnfModAttempt2/bbmiku)
 
 [Miku Mod](https://xentidoe.itch.io/miku-mod-full-week)
+
+[Obama Night Funkin'](https://hdboye.github.io/FnfModAttempt/page2/obama)
