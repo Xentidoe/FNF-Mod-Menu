@@ -4,6 +4,8 @@ a fnf mod menu filled with mods
 
 Credits to hdboye
 
+IF YOU ARE THE CREATOR OF ONE OF THESES MODS AND WANT ME TO TAKE IT DOWN PLS MESSAGE ME IN DISCORD xentidoe#6632 AND I WILL TAKE IT DOWN
+
 [Kade Engine](https://hdboye.github.io/FnfModAttempt2/kade)
 
 some of these mods are from kbh games so a big thanks to them 
@@ -57,3 +59,5 @@ some of these mods are from kbh games so a big thanks to them
 [Pumpkin Pie Mod](https://hdboye.github.io/FnfModAttempt2/pie)
 
 [Ranboo As Bf](https://hdboye.github.io/FnfModAttempt2/ranboo)
+
+[Playable TankMan](https://hdboye.github.io/FnfModAttempt2/tankmen)
