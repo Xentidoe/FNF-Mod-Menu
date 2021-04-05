@@ -65,3 +65,7 @@ some of these mods are from kbh games so a big thanks to them
 [B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree)
 
 [UpSide Mod](https://hdboye.github.io/FnfModAttempt/upside)
+
+[X Event Demo](https://elpeppywall.github.io/Mods/Xchara)
+
+[V.S Hex](https://elpeppywall.github.io/Mods/hex)
