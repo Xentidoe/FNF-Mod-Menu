@@ -18,4 +18,6 @@ some of these mods are from kbh games so a big thanks to them
 
 [Ronald Mod (credits to hd)](https://hdboye.github.io/FnfModAttempt2/ronald)
 
-[among drip mod (credits to hd)](https://hdboye.github.io/FnfModAttempt/drip)
+[Among Drip Mod (credits to hd)](https://hdboye.github.io/FnfModAttempt/drip)
+
+[Minus Mod Weeks 1-3 (credits to hd)](https://hdboye.github.io/FnfModAttempt/minus)
