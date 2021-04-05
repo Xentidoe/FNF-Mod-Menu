@@ -27,3 +27,5 @@ some of these mods are from kbh games so a big thanks to them
 [??? Mod](https://hdboye.github.io/FnfModAttempt/mitai)
 
 [Roblox Noob Over Pico (credits to hd)](https://hdboye.github.io/FnfModAttempt/noob)
+
+[Duo Pack (credits to hd)](https://hdboye.github.io/FnfModAttempt/duo)
