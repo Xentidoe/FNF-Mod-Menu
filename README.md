@@ -100,4 +100,4 @@ some of these mods are from kbh games so a big thanks to them
 
 [Annie(credits to snipergaming88)](https://snipergaming888.github.io/Annie/)
 
-[V.S Zardy](https://pyoyoyo152.000webhostapp.com/Foolhardy%20browser%20kade/)
+[V.S Zardy (credits to snipergaming88)](https://pyoyoyo152.000webhostapp.com/Foolhardy%20browser%20kade/)
