@@ -93,3 +93,11 @@ some of these mods are from kbh games so a big thanks to them
 [Obama Night Funkin'](https://hdboye.github.io/FnfModAttempt/page2/obama)
 
 [amogus over week 1](https://hdboye.github.io/FnfModAttempt2/amogus)
+
+[Rose Crimianal](https://snipergaming888.github.io/Rose-criminal/)
+
+[V.S Xe (credits to snipergaming88)](https://snipergaming888.github.io/XE/)
+
+[Annie(credits to snipergaming88)](https://snipergaming888.github.io/Annie/)
+
+[V.S Zardy](https://pyoyoyo152.000webhostapp.com/Foolhardy%20browser%20kade/)
