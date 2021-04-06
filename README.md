@@ -94,7 +94,7 @@ some of these mods are from kbh games so a big thanks to them
 
 [amogus over week 1](https://hdboye.github.io/FnfModAttempt2/amogus)
 
-[Rose Crimianal](https://snipergaming888.github.io/Rose-criminal/)
+[Rose Criminal](https://snipergaming888.github.io/Rose-criminal/)
 
 [V.S Xe (credits to snipergaming88)](https://snipergaming888.github.io/XE/)
 
