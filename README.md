@@ -101,3 +101,7 @@ some of these mods are from kbh games so a big thanks to them
 [Annie(credits to snipergaming88)](https://snipergaming888.github.io/Annie/)
 
 [V.S Zardy (credits to snipergaming88)](https://pyoyoyo152.000webhostapp.com/Foolhardy%20browser%20kade/)
+
+[Gf Gender Swap](https://hdboye.github.io/FnfModAttempt2/boy)
+
+[Torso Less Funkin'](https://hdboye.github.io/FnfModAttempt2/torso)
