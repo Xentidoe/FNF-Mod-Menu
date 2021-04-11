@@ -109,3 +109,5 @@ some of these mods are from kbh games so a big thanks to them
 [Monster Has No Iphone](https://snipergaming888.github.io/Iphone/)
 
 [DDLC Mod](https://snipergaming888.github.io/Monika/)
+
+[X Event Demo(inking mistake)](https://youtu.be/QtBDL8EiNZo)
