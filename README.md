@@ -111,3 +111,5 @@ some of these mods are from kbh games so a big thanks to them
 [DDLC Mod](https://snipergaming888.github.io/Monika/)
 
 [X Event Demo(inking mistake)](https://youtu.be/QtBDL8EiNZo)
+
+[V.S. Sky](https://kbhgames.com/game/friday-night-funkin-vs-sky-full-week)
