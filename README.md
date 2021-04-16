@@ -229,3 +229,5 @@ EVERY MOD LISTED ABOVE
 [V.S Hex](https://elpeppywall.github.io/Mods/hex) (credits to peppy)
 
 [V.S Zardy](https://pyoyoyo152.000webhostapp.com/Foolhardy%20browser%20kade/) (credits to snipergaming88)
+
+[X Event](https://fominizt.github.io/x-event/)
