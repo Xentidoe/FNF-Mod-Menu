@@ -10,9 +10,6 @@ oh yeah flutter made the categories
 
 [Kade Engine](https://hdboye.github.io/FnfModAttempt2/kade)
 
-
-[click here](https://discord.gg/hxVMcsXn) to join my discord server to request mods
-
 MOST POPULAR MODS
 -----------------
 
